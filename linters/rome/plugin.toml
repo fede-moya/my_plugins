@@ -5,7 +5,7 @@ runtime = "node"
 package = "rome"
 file_types = ["javascript", "typescript"]
 version_command = "rome --version"
-recommended = true
+recommended = false
 # direct_configs:
 #         - .rome.json
 # affects_cache:
